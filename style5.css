@@ -1,0 +1,13 @@
+#background
+{
+	background-color: red;
+}
+
+h1{
+	background-color: darkblue;
+	background-size: 10px 20px;		
+}
+
+body{
+	background: url("https://cdn.wallpapersafari.com/99/66/ntZ4kI.jpg");
+}
